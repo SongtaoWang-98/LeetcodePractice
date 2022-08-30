@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19153436-4225-4ba2-9030-aab5118e7792" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Q1450.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1672.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1920.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2235.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +49,9 @@
       <workItem from="1660888698487" duration="233000" />
       <workItem from="1660892808523" duration="1277000" />
       <workItem from="1660894116985" duration="5764000" />
+      <workItem from="1660901695459" duration="114000" />
+      <workItem from="1661234441456" duration="72000" />
+      <workItem from="1661829983896" duration="5109000" />
     </task>
     <servers />
   </component>
